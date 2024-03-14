@@ -19,7 +19,7 @@ This project consists of HTML and CSS files that create a basic Amazon-like web 
 - Footer with links to Amazon's global websites.
 
 ## Usage
-To use this project, simply clone or download the repository and open the `index.html` file in a web browser. You can also view the live demo [![Alt Text](thumbnail_url)](https://youtu.be/a2GeBFmwinc)
+To use this project, simply clone or download the repository and open the `index.html` file in a web browser. You can also view the live demo [![Here](http://img.youtube.com/vi/<a2GeBFmwinc./maxresdefault.jpg)](https://youtu.be/a2GeBFmwinc)
    [here]([https://youtu.be/a2GeBFmwinc]).
 
 ---
