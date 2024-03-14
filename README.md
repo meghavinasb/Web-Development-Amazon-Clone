@@ -1,5 +1,5 @@
-# Web-Development-Amazon-Clone
-# Amazon Web Development Project
+# Web-Development-Amazon-Clone-Project
+
 
 Welcome to the Amazon web development project! This project aims to replicate a simplified version of the Amazon website layout using HTML and CSS.
 
