@@ -8,7 +8,6 @@ Welcome to the Amazon web development project! This project aims to replicate a 
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project consists of HTML and CSS files that create a basic Amazon-like web page layout. It includes a header, navigation bar, a table displaying upcoming orders, a login form, and a footer. The styling is done using CSS to make the page visually appealing.
