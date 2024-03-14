@@ -1,6 +1,6 @@
 # Web-Development-Amazon-Clone-Project
 
-![Image]("C:\Users\megha\OneDrive\Pictures\Screenshots\Screenshot 2024-03-10 173707.png")
+![Alt Text](http://img.youtube.com/vi/<a2GeBFmwinc>/maxresdefault.jpg)
 
 
 Welcome to the Amazon web development project! This project aims to replicate a simplified version of the Amazon website layout using HTML and CSS.
