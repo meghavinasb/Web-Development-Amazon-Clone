@@ -20,8 +20,6 @@ To use this project, simply clone or download the repository.
 
 ## Demo
 
-Click [![Here](http://img.youtube.com/vi/<a2GeBFmwinc>/maxresdefault.jpg)](https://youtu.be/a2GeBFmwinc)
-
----
+## [**Click Here!**](https://meghavinasb.github.io/Web-Development-Amazon-Clone/)
 
 Developed by Meghavina
